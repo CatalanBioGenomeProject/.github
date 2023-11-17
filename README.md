@@ -7,7 +7,7 @@ Biotechnology Information (NCBI), but we recommend the ENA. In this
 document, we will describe the submission process and the structure that
 the projects should have.
 
-<img src="./media/image1.png"
+<img src="https://github.com/cnag-aat/CBP/tree/main/media/image1.png"
 style="width:6.69792in;height:5.28856in" />
 
 1.  Registration of a specimen TOLID:
@@ -120,7 +120,7 @@ Now you can submit the project. A new window will show up with the
 assigned project ID, that you can also check in the “Studies Report” tab
 of the Dashboard. The project submission page should look like this:
 
-<img src="./media/image2.png"
+<img src="https://github.com/cnag-aat/CBP/tree/main/media/image2.png"
 style="width:7.21017in;height:3.75926in" />
 
 <u>Genome assembly analysis project registration</u>
@@ -161,7 +161,7 @@ of the Dashboard.
 
 The project submission page should look like this:
 
-<img src="./media/image3.png" style="width:6.55in;height:4.09375in" />
+<img src="https://github.com/cnag-aat/CBP/tree/main/media/image3.png" style="width:6.55in;height:4.09375in" />
 
 <u>Alternate genome assembly analysis project registration</u>
 
@@ -216,7 +216,7 @@ should look and which is the command to submit them.
 First, you need to create a “**submission.xml**” with the following
 information:  
   
-<img src="./media/image4.png"
+<img src="https://github.com/cnag-aat/CBP/tree/main/media/image4.png"
 style="width:6.73958in;height:1.85339in" />
 
 It is good practice to provide a specific release date for an umbrella
@@ -237,7 +237,7 @@ For example, if we want the project to be private until March
 The second xml file we need to create is named **“umbrella.xml”** and it
 is where we define all the details of the project.
 
-<img src="./media/image5.png"
+<img src="https://github.com/cnag-aat/CBP/tree/main/media/image5.png"
 style="width:5.77083in;height:2.88542in" />
 
 Edit umbrella.xml to contain the following information:
@@ -259,7 +259,7 @@ add one project at this time.
 
 If we continue with our Podarcis example, this file would look like:
 
-<img src="./media/image6.png"
+<img src="https://github.com/cnag-aat/CBP/tree/main/media/image6.png"
 style="width:6.14537in;height:2.90625in" />
 
 When you are satisfied with the changes you have made to umbrella.xml
@@ -427,7 +427,7 @@ are contigs or scaffolds that are associated with a specific chromosome
 but for which order and orientation is unknown. An example unlocalised
 list file:
 
-<img src="./media/image7.png" style="width:2.375in;height:0.94444in" />
+<img src="https://github.com/cnag-aat/CBP/tree/main/media/image7.png" style="width:2.375in;height:0.94444in" />
 
 The unlocalised list file is a tab separated text file (USASCII7)
 containing the following columns:
